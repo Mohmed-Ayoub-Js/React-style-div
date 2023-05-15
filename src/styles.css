@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.app{
+    background-color: white;
+    color: #333333;
+    border-radius: 40px 40px 40px 40px;
+    width: 50%;
+    transition: 0.5s;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.app:hover{
+  box-shadow: 0 0 20px 0 rgb(25, 132, 231);
+  color:rgb(25, 132, 231);
+}
+body{
+  background-color: #333333;
+}
